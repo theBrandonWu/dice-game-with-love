@@ -35,5 +35,7 @@ Icon
 # Debug files
 debug.log
 
-# windsurf rules
-# .windsurfrules
+# Development files
+.windsurfrules
+/memory-bank/
+/temp/
