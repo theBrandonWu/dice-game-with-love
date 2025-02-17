@@ -1,4 +1,6 @@
+
 # Battle Dice Game
+![Screenshot 2025-02-17 at 21 02 24](https://github.com/user-attachments/assets/01c0a80e-2ab8-4500-9d4d-564815574665)
 
 A tactical dice-based combat game created with LÖVE (Love2D) framework.
 
