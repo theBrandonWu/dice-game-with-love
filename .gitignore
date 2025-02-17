@@ -1,0 +1,39 @@
+# Love2D specific
+*.love
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Lua specific
+*.lua~
+*.luac
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and distribution
+/dist/
+/builds/
+
+# Dependencies
+/libs/
+
+# Debug files
+debug.log
+
+# windsurf rules
+# .windsurfrules
