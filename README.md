@@ -5,6 +5,8 @@ a Local, Hotseat, 1v1 Battle Dice Game
 
 A tactical dice-based combat game created with LÖVE (Love2D) framework.
 
+You can download the builds here: https://thebrandonwu.itch.io/die-die-dice
+
 ## How to Run
 
 ``open -n -a love .``
